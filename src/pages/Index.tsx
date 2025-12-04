@@ -3,7 +3,7 @@ import Icon from "@/components/ui/icon";
 
 const Index = () => {
   const handleTelegramClick = () => {
-    window.open("https://t.me/your_channel", "_blank");
+    window.open("https://t.me/polipsjuxhebx", "_blank");
   };
 
   return (
